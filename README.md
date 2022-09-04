@@ -15,7 +15,7 @@
 
 ## Welcome to my GitHub Page!
 I am searching for a remote bioinformatics position!
-<img src="media/dna.gif" width=500>
+<img align="center" src="media/dna.gif" width=500>
 
 </center>
 
@@ -57,7 +57,7 @@ Below you will find a list of the repositories, tutorials, workshops, scripts, a
 
 ## Under Construction!
 
-<center><img align="center" src="media/Bitmoji6.PNG" width=40%></center>
+<p align="center"><img src="media/Bitmoji6.PNG" width=40%></p>
 
 
 
