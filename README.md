@@ -4,6 +4,7 @@
 ### he/him/his
 ### Evolution | Ecology | Conservation
 ### Genomics | Bioinformatics
+<p align="center">
 <table width="40%">
 	<tr>
 		<td width="25%"><a href="https://twitter.com/ReptileRhett"><img src="media/Twitter.png" width=75></a></td>
@@ -12,10 +13,11 @@
 		<td width="25%"><a href="https://www.dropbox.com/s/e6vzb1jexi6qzdo/CV_MasterCopy.docx?dl=0"><img src="media/cv.png" width=75></a></td>
 	</tr>
 </table>
+</p>
 
 ## Welcome to my GitHub Page!
 I am searching for a remote bioinformatics position!
-<img align="center" src="media/dna.gif" width=500>
+<p align="center"><img src="media/dna.gif" width=500></p>
 
 </center>
 
