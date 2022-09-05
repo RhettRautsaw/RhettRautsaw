@@ -1,11 +1,21 @@
 main:
+  - title: "Home"
+    url: /home/
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Software"
+    url: /software/
+  - title: "Outreach"
+    url: /outreach/
   - title: "Posts"
     url: /posts/
+  - title: "Contact"
+    url: /contact/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
-  - title: "Home"
-    url: /home/
