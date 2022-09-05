@@ -20,24 +20,38 @@
 </div>
 
 # Who am I?
-<a href="https://www.RhettRautsaw.com/"><img align="right" src="media/ParkinsonLab_black.png" width=100></a>
 
-<table width="75%">
-	<tr>
-		<td width="20%"><a href=""><img src="media/WrightStateUniv2.png"></a></td>
-		<td width="20%"><a href="https://www.parkinsonlab.com/"><img src="media/UCF.png"></a></td>
-		<td width="20%"><a href="https://www.parkinsonlab.com/"><img src="media/ClemsonPaw.png"></a></td>
-		<td width="20%"><a href="https://labs.wsu.edu/storfer/"><img src="media/WSU.png"></a></td>
-		<td width="20%"><a href="https://www.margreslab.com/"><img src="media/USF2.png"></a></td>
-	</tr>
-	<tr>
-		<td width="20%">B.S. <br> 2012-2014</td>
-		<td width="20%">M.S. <br> 2014-2017</td>
-		<td width="20%">Ph.D. <br> 2017-2022</td>
-		<td width="20%">Postdoc <br> 2022-</td>
-		<td width="20%">Postdoc <br> 2022-</td>
-	</tr>
-</table>
+<a href="https://www.RhettRautsaw.com/"><img align="right" src="media/ParkinsonLab_black.png" width=100></a>
+<img src="media/WrightStateUniv2.png" width=100>
+&nbsp
+<img src="media/UCF.png" width=100>
+&nbsp&nbsp
+<img src="media/ClemsonPaw.png" width=100>
+&nbsp&nbsp
+<img src="media/WSU.png" width=100>
+&nbsp&nbsp
+<img src="media/USF2.png" width=100>
+
+<figure>
+	<img src="media/WrightStateUniv2.png" width=100>
+	<figcaption>B.S. 2012-2014</figcaption>
+</figure>
+<figure>
+	<img src="media/UCF.png" width=100>
+	<figcaption><a href="https://www.parkinsonlab.com/">M.S. 2014-2017</a></figcaption>
+</figure>
+<figure>
+	<img src="media/ClemsonPaw.png" width=100>
+	<figcaption><a href="https://www.parkinsonlab.com/">Ph.D. 2017-2022</a></figcaption>
+</figure>
+<figure>
+	<img src="media/WSU.png" width=100>
+	<figcaption><a href="https://labs.wsu.edu/storfer/">Postdoc 2022-</a></figcaption>
+</figure>
+<figure>
+	<img src="media/USF2.png" width=100>
+	<figcaption><a href="https://www.margreslab.com/">Postdoc 2022-</a></figcaption>
+</figure>
 
 Generally I am interested developing and using tools that transform complex genomic data into biological knowledge. I consider myself an integrative/computational biologist with interests spanning the intersection of evolution, ecology, genomics, and conservation. Specifically, I use high-throughput sequencing methods and bioinformatics to understand (1) how ecology and changes in the genome impact the evolution of traits and (2) how genetic and trait diversity can impact our conservation decisions. For my Ph.D., I used hundreds of high-throughput sequencing samples to study the phylogenomics of vipers 🐍 and role of competition on the evolution of their venom. While at USF/WSU for my postdoc, I will be working on Tasmanian Devil Facial Tumor Disease genomics; examining how the tumor has evolved since its divergence from the parental Tasmanian Devil genome.
 
