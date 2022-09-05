@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: https://rhettrautsaw.github.io/rhettrautsaw/pages/home.html
+  - title: "About"
+    url: https://rhettrautsaw.github.io/rhettrautsaw/pages/about.html
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
