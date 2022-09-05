@@ -44,7 +44,7 @@ Below you will find a list of the repositories, tutorials, workshops, scripts, a
 ## Under Construction!
 
 <p align="center">
-	<img src="media/Bitmoji6.PNG" width=40%>
+	<img src="media/bitmojis/Bitmoji6.PNG" width=40%>
 </p>
 
 ## Pipelines & Scripts
