@@ -41,12 +41,6 @@ I have 8+ years of experience in bioinformatics, statistics, scripting/programmi
 # Repositories
 Below you will find a list of the repositories, tutorials, workshops, scripts, and applications I have developed...and yes I have way too much fun making GitHub repositories.
 
-## Under Construction!
-
-<p align="center">
-	<img src="media/bitmojis/Bitmoji6.PNG" width=40%>
-</p>
-
 ## Pipelines & Scripts
 [<img src="media/hexes/ToxCodAn.svg" height=200></img>](https://github.com/pedronachtigall/ToxCodAn)
 [<img src="media/hexes/MitoSIS.svg" height=200></img>](https://github.com/RhettRautsaw/MitoSIS)
