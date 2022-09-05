@@ -4,6 +4,12 @@
 ### he/him/his
 ### Evolution | Ecology | Conservation
 ### Genomics | Bioinformatics
+
+| <a href="https://twitter.com/ReptileRhett"><img src="media/Twitter.png" width=75></a> | <a href="https://www.RhettRautsaw.com/"><img src="media/ParkinsonLab_circle.png" width=75></a> | <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=vL483VkAAAAJ&gmla=AJsN-F7Izh_qIQwn43QKo2GT_YHwioeGbPQ7qg57Ia1g9HfVDx8T6ub5VhdYUUNEsU4ii6kfbxgI4uolmkmWj5QC6R0NkWqaks27lg4r0Wnrx5AeShVy_t4ZmhbpQj_k_GntCqWCD_7T"><img src="media/GoogleScholar.png" width=75></a> | <a href="https://www.dropbox.com/s/e6vzb1jexi6qzdo/CV_MasterCopy.docx?dl=0"><img src="media/cv.png" width=75></a> |
+|----|----|----|----|
+
+
+<!--
 <table width="40%">
 	<tr>
 		<td width="25%"><a href="https://twitter.com/ReptileRhett"><img src="media/Twitter.png" width=75></a></td>
@@ -12,10 +18,11 @@
 		<td width="25%"><a href="https://www.dropbox.com/s/e6vzb1jexi6qzdo/CV_MasterCopy.docx?dl=0"><img src="media/cv.png" width=75></a></td>
 	</tr>
 </table>
+-->
 
 ## Welcome to my GitHub Page!
 I am searching for a remote bioinformatics position!
-<img src="media/dna.gif" width=500>
+<p align="center"><img src="media/dna.gif" width=500></p>
 
 </center>
 
@@ -23,10 +30,9 @@ I am searching for a remote bioinformatics position!
 
 <a href="https://www.RhettRautsaw.com/"><img align="right" src="media/ParkinsonLab_black.png" width=100></a>
 
-|	|	|	|	|	|
+| B.S. <br> 2012-2014 | M.S. <br> 2014-2017 | Ph.D. <br> 2017-2022 | Postdoc <br> 2022- | Postdoc <br> 2022- |
 |---|---|---|---|---|
 | <a href=""><img src="media/WrightStateUniv2.png" width=90></a> | <a href="https://www.parkinsonlab.com/"><img src="media/UCF.png" width=90></a> | <a href="https://www.parkinsonlab.com/"><img src="media/ClemsonPaw.png" width=90></a> | <a href="https://labs.wsu.edu/storfer/"><img src="media/WSU.png" width=90></a> | <a href="https://www.margreslab.com/"><img src="media/USF2.png" width=90></a> |
-| B.S. <br> 2012-2014 | M.S. <br> 2014-2017 | Ph.D. <br> 2017-2022 | Postdoc <br> 2022- | Postdoc <br> 2022- |
 
 <!--
 <table width="75%">
