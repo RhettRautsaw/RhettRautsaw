@@ -22,7 +22,7 @@
 # Who am I?
 
 <a href="https://www.RhettRautsaw.com/"><img align="right" src="media/ParkinsonLab_black.png" width=100></a>
-<img src="media/UniversityLogos.png" width=750>
+<img src="media/UniversityLogos.png" width=500>
 
 Generally I am interested developing and using tools that transform complex genomic data into biological knowledge. I consider myself an integrative/computational biologist with interests spanning the intersection of evolution, ecology, genomics, and conservation. Specifically, I use high-throughput sequencing methods and bioinformatics to understand (1) how ecology and changes in the genome impact the evolution of traits and (2) how genetic and trait diversity can impact our conservation decisions. For my Ph.D., I used hundreds of high-throughput sequencing samples to study the phylogenomics of vipers 🐍 and role of competition on the evolution of their venom. While at USF/WSU for my postdoc, I will be working on Tasmanian Devil Facial Tumor Disease genomics; examining how the tumor has evolved since its divergence from the parental Tasmanian Devil genome.
 
