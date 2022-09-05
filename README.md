@@ -4,7 +4,6 @@
 ### he/him/his
 ### Evolution | Ecology | Conservation
 ### Genomics | Bioinformatics
-<p align="center">
 <table width="40%">
 	<tr>
 		<td width="25%"><a href="https://twitter.com/ReptileRhett"><img src="media/Twitter.png" width=75></a></td>
@@ -13,11 +12,10 @@
 		<td width="25%"><a href="https://www.dropbox.com/s/e6vzb1jexi6qzdo/CV_MasterCopy.docx?dl=0"><img src="media/cv.png" width=75></a></td>
 	</tr>
 </table>
-</p>
 
 ## Welcome to my GitHub Page!
 I am searching for a remote bioinformatics position!
-<p align="center"><img src="media/dna.gif" width=500></p>
+<img src="media/dna.gif" width=500>
 
 </center>
 
@@ -25,6 +23,12 @@ I am searching for a remote bioinformatics position!
 
 <a href="https://www.RhettRautsaw.com/"><img align="right" src="media/ParkinsonLab_black.png" width=100></a>
 
+|	|	|	|	|	|
+|---|---|---|---|---|
+| <a href=""><img src="media/WrightStateUniv2.png" width=90></a> | <a href="https://www.parkinsonlab.com/"><img src="media/UCF.png" width=90></a> | <a href="https://www.parkinsonlab.com/"><img src="media/ClemsonPaw.png" width=90></a> | <a href="https://labs.wsu.edu/storfer/"><img src="media/WSU.png" width=90></a> | <a href="https://www.margreslab.com/"><img src="media/USF2.png" width=90></a> |
+| B.S. <br> 2012-2014 | M.S. <br> 2014-2017 | Ph.D. <br> 2017-2022 | Postdoc <br> 2022- | Postdoc <br> 2022- |
+
+<!--
 <table width="75%">
 	<tr>
 		<td width="20%"><a href=""><img src="media/WrightStateUniv2.png"></a></td>
@@ -41,6 +45,7 @@ I am searching for a remote bioinformatics position!
 		<td width="20%">Postdoc <br> 2022-</td>
 	</tr>
 </table>
+-->
 
 Generally I am interested developing and using tools that transform complex genomic data into biological knowledge. I consider myself an integrative/computational biologist with interests spanning the intersection of evolution, ecology, genomics, and conservation. Specifically, I use high-throughput sequencing methods and bioinformatics to understand (1) how ecology and changes in the genome impact the evolution of traits and (2) how genetic and trait diversity can impact our conservation decisions. For my Ph.D., I used hundreds of high-throughput sequencing samples to study the phylogenomics of vipers 🐍 and role of competition on the evolution of their venom. While at USF/WSU for my postdoc, I will be working on Tasmanian Devil Facial Tumor Disease genomics; examining how the tumor has evolved since its divergence from the parental Tasmanian Devil genome.
 
@@ -59,7 +64,9 @@ Below you will find a list of the repositories, tutorials, workshops, scripts, a
 
 ## Under Construction!
 
-<p align="center"><img src="media/Bitmoji6.PNG" width=40%></p>
+<p align="center">
+	<img src="media/Bitmoji6.PNG" width=40%>
+</p>
 
 
 
