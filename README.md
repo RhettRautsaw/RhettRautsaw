@@ -47,25 +47,31 @@ Below you will find a list of the repositories, tutorials, workshops, scripts, a
 	<img src="media/Bitmoji6.PNG" width=40%>
 </p>
 
+## Pipelines & Scripts
+[<img src="media/hexes/ToxCodAn.svg" height=200></img>]()
+[<img src="media/hexes/MitoSIS.svg" height=200></img>]()
+[<img src="media/hexes/PhyProbe.svg" height=200></img>]()
+[<img src="media/hexes/TransMap.svg" height=200></img>]()
+[<img src="media/hexes/VariantCaller.svg" height=200></img>]()
+[<img src="media/hexes/pyVAE.svg" height=200></img>]()
 
+## Shiny Apps
+I have a Digital Ocean Server on which I host several Shiny Apps ([RhettRautsaw.app](RhettRautsaw.app))
+
+[<img src="media/hexes/VenomMaps.svg" height=200></img>]()
+[<img src="media/hexes/SequencingEstimator.svg" height=200></img>]()
+[<img src="media/hexes/CoordinateMapper.svg" height=200></img>]()
+[<img src="media/hexes/BiologyPhDStipends.svg" height=200></img>]()
 
 ## Tutorials/Workshops
 
 - [Bioinformatics]()
 - []()
 
-## Pipelines
+# GitHub Stats
+![Rhett's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhettRautsaw&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhettRautsaw&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
 
-## Scripts
-
-
-## Shiny Apps
-I have a Digital Ocean Server on which I host several Shiny Apps ([RhettRautsaw.app](RhettRautsaw.app))
-
-- [VenomMaps]()
-- [MitoSIS]()
-- [Sequencing Estimator]()
-- [Coordinate Mapper]()
 
 <!--
 **RhettRautsaw/RhettRautsaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,6 +87,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Rhett's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhettRautsaw&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhettRautsaw&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
