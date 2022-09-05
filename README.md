@@ -2,13 +2,20 @@
 <center>
 	<h1>Rhett M. Rautsaw, Ph.D.</h1>
 	<h3>Evolution | Ecology | Conservation | Genomics | Bioinformatics</h3>
+	<h3>Welcome to my GitHub Page!</h3>
+	<img src="media/dna.gif" width=110>
+	<img src="media/dna.gif" width=110>
+	&nbsp
 	<a href="https://twitter.com/ReptileRhett"><img src="media/Twitter.png" width=50></a>
+	&nbsp
 	<a href="https://www.RhettRautsaw.com/"><img src="media/ParkinsonLab_circle.png" width=50></a>
+	&nbsp
 	<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=vL483VkAAAAJ&gmla=AJsN-F7Izh_qIQwn43QKo2GT_YHwioeGbPQ7qg57Ia1g9HfVDx8T6ub5VhdYUUNEsU4ii6kfbxgI4uolmkmWj5QC6R0NkWqaks27lg4r0Wnrx5AeShVy_t4ZmhbpQj_k_GntCqWCD_7T"><img src="media/GoogleScholar.png" width=50></a>
+	&nbsp
 	<a href="https://www.dropbox.com/s/e6vzb1jexi6qzdo/CV_MasterCopy.docx?dl=0"><img src="media/cv.png" width=50></a>
-	<h2>Welcome to my GitHub Page!</h2>
-	I am searching for a remote bioinformatics position!
-	<p align="center"><img src="media/dna.gif" width=500></p>
+	&nbsp
+	<img src="media/dna.gif" width=110>
+	<img src="media/dna.gif" width=110>
 </center>
 </div>
 
