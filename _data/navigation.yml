@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: home.html
+    url: /home/
   - title: "About"
-    url: about.html
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
