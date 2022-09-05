@@ -48,25 +48,31 @@ Below you will find a list of the repositories, tutorials, workshops, scripts, a
 </p>
 
 ## Pipelines & Scripts
-[<img src="media/hexes/ToxCodAn.svg" height=200></img>]()
-[<img src="media/hexes/MitoSIS.svg" height=200></img>]()
-[<img src="media/hexes/PhyProbe.svg" height=200></img>]()
-[<img src="media/hexes/TransMap.svg" height=200></img>]()
-[<img src="media/hexes/VariantCaller.svg" height=200></img>]()
-[<img src="media/hexes/pyVAE.svg" height=200></img>]()
+[<img src="media/hexes/ToxCodAn.svg" height=200></img>](https://github.com/pedronachtigall/ToxCodAn)
+[<img src="media/hexes/MitoSIS.svg" height=200></img>](https://github.com/RhettRautsaw/MitoSIS)
+[<img src="media/hexes/PhyProbe.svg" height=200></img>](https://github.com/RhettRautsaw/PhyProbe)
+[<img src="media/hexes/TransMap.svg" height=200></img>](https://github.com/RhettRautsaw/TransMap)
+[<img src="media/hexes/VariantCaller.svg" height=200></img>](https://github.com/RhettRautsaw/VariantCaller)
+[<img src="media/hexes/pyVAE.svg" height=200></img>](https://github.com/RhettRautsaw/pyVAE)
+[<img src="media/hexes/VenomMaps.svg" height=200></img>](https://rhettrautsaw.app/shiny/VenomMaps/)
 
 ## Shiny Apps
 I have a Digital Ocean Server on which I host several Shiny Apps ([RhettRautsaw.app](RhettRautsaw.app))
 
-[<img src="media/hexes/VenomMaps.svg" height=200></img>]()
-[<img src="media/hexes/SequencingEstimator.svg" height=200></img>]()
-[<img src="media/hexes/CoordinateMapper.svg" height=200></img>]()
-[<img src="media/hexes/BiologyPhDStipends.svg" height=200></img>]()
+[<img src="media/hexes/VenomMaps.svg" height=200></img>](https://rhettrautsaw.app/shiny/VenomMaps/)
+[<img src="media/hexes/SequencingEstimator.svg" height=200></img>](https://rhettrautsaw.app/shiny/SequencingEstimator/)
+[<img src="media/hexes/CoordinateMapper.svg" height=200></img>](https://rhettrautsaw.app/shiny/CoordinateMapper/)
+[<img src="media/hexes/BiologyPhDStipends.svg" height=200></img>](https://rhettrautsaw.app/shiny/BiologyPhDStipends/)
 
 ## Tutorials/Workshops
 
-- [Bioinformatics]()
-- []()
+- [Bioinformatics](https://github.com/RhettRautsaw/Bioinformatics)
+	- [Basics of Bioinformatics](https://github.com/RhettRautsaw/Bioinformatics/blob/master/tutorials/Basics_of_Bioinformatics.md)
+	- [PacBio HiFi Genome Assembly and Annotation](https://github.com/RhettRautsaw/Bioinformatics/blob/master/tutorials/HiFi_Genomics.md)
+	- [High Performance Computing Cliffnotes](https://github.com/RhettRautsaw/Bioinformatics/blob/master/tutorials/HPC_Cliffnotes.md)
+- [GIS Tutorial](https://github.com/RhettRautsaw/GIS_Tutorial)
+	- [QGIS](https://github.com/RhettRautsaw/GIS_Tutorial/blob/master/QGIS_Tutorial.md)
+	- [R](https://github.com/RhettRautsaw/GIS_Tutorial/blob/master/R_Tutorial.md)
 
 # GitHub Stats
 ![Rhett's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhettRautsaw&show_icons=true)
