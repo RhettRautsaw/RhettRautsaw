@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    inkscape:export-ydpi="350"
    inkscape:export-xdpi="350"
-   inkscape:export-filename="/Users/rhettrautsaw/Dropbox/GitHub/VenomMaps/www/VenomMaps.png"
+   inkscape:export-filename="VenomMaps.png"
    sodipodi:docname="VenomMaps.svg"
    id="svg1132"
    version="1.1"
-   viewBox="0 0 124.44 144.00">
+   viewBox="0 0 124.44 144.00"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata1136">
     <rdf:RDF>
@@ -30,10 +30,10 @@
   <sodipodi:namedview
      inkscape:current-layer="svg1132"
      inkscape:window-maximized="0"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-x="0"
-     inkscape:cy="-5.4590833"
-     inkscape:cx="170.54722"
+     inkscape:cy="-5.5655687"
+     inkscape:cx="111.31137"
      inkscape:zoom="2.1561139"
      showgrid="false"
      id="namedview1134"
@@ -47,7 +47,10 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs835">
     <style

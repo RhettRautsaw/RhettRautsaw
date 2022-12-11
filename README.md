@@ -49,6 +49,7 @@ Below you will find a list of the repositories, tutorials, workshops, scripts, a
 [<img src="media/hexes/VariantCaller.svg" height=200></img>](https://github.com/RhettRautsaw/VariantCaller)
 [<img src="media/hexes/pyVAE.svg" height=200></img>](https://github.com/RhettRautsaw/pyVAE)
 [<img src="media/hexes/VenomMaps.svg" height=200></img>](https://rhettrautsaw.app/shiny/VenomMaps/)
+[<img src="media/hexes/Walter.svg" height=200></img>](https://github.com/RhettRautsaw/Walter)
 
 ## Shiny Apps
 I have a Digital Ocean Server on which I host several Shiny Apps ([RhettRautsaw.app](RhettRautsaw.app))
