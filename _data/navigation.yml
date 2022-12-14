@@ -11,11 +11,11 @@ main:
     url: /software/
   - title: "Outreach"
     url: /outreach/
-  - title: "Posts"
-    url: /posts/
   - title: "Contact"
     url: /contact/
+  - title: "Posts"
+    url: /posts/
   - title: "Categories"
-    url: /categories/
+    url: /posts/categories/
   - title: "Tags"
-    url: /tags/
+    url: /posts/tags/
