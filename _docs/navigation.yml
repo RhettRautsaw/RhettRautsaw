@@ -7,8 +7,6 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Software"
-    url: /software/
   - title: "Outreach"
     url: /outreach/
   - title: "Contact"
