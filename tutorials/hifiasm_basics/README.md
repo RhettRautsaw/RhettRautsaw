@@ -23,6 +23,8 @@ cd ..
 
 wget https://github.com/shenwei356/seqkit/releases/download/v2.9.0/seqkit_linux_amd64.tar.gz
 tar xvzf seqkit_linux_amd64.tar.gz; rm seqkit_linux_amd64.tar.gz
+
+cd ..
 ```
 
 ## Download Data
@@ -34,7 +36,6 @@ This dataset is ~54 Mbp of HiFi data which is equivalent to ~34x coverage of the
 <br>
 
 ```
-cd ~/PacBio
 wget https://downloads.pacbcloud.com/public/dataset/2021-11-Microbial-96plex/demultiplexed-reads/m64004_210929_143746.bc2009.bam
 ```
 
@@ -47,12 +48,12 @@ Between these two steps, I am creating symbolic links to keep the original file 
 
 Finally, I'm gzipping (compressing) the fastq file using pigz. 
 ```
-~/PacBio/bin/pbtk/pbindex m64004_210929_143746.bc2009.bam
+bin/pbtk/pbindex m64004_210929_143746.bc2009.bam
 
 ln -s m64004_210929_143746.bc2009.bam bacteria.hifi_reads.bam
 ln -s m64004_210929_143746.bc2009.bam.pbi bacteria.hifi_reads.bam.pbi
 
-~/PacBio/bin/pbtk/bam2fastq -j 8 -o bacteria.hifi_reads -u bacteria.hifi_reads.bam
+bin/pbtk/bam2fastq -j 8 -o bacteria.hifi_reads -u bacteria.hifi_reads.bam
 
 pigz -9 -p 8 bacteria.hifi_reads.fastq
 ```
@@ -60,7 +61,7 @@ pigz -9 -p 8 bacteria.hifi_reads.fastq
 ## Run hifiasm
 After that, we are ready to run hifiasm and it couldn't be easier. A single line of code will do the trick. This will take approximately 35-40 seconds to complete and peak at 16-20 GB of RAM. 
 ```
-~/PacBio/bin/hifiasm/hifiasm -t 8 -o bacteria.asm bacteria.hifi_reads.fastq.gz
+bin/hifiasm/hifiasm -t 8 -o bacteria.asm bacteria.hifi_reads.fastq.gz
 ```
 
 ## Convert GFA to FASTA
@@ -77,7 +78,7 @@ Finally, let's just take a look at the distribution of contig lengths and calcul
 samtools faidx bacteria.asm.bp.p_ctg.fasta
 cut -f1,2 bacteria.asm.bp.p_ctg.fasta.fai | sort -nr -k2,2
 
-~/PacBio/bin/seqkit stats -j 8 -a bacteria.asm.bp.p_ctg.fasta
+bin/seqkit stats -j 8 -a bacteria.asm.bp.p_ctg.fasta
 ```
 
 |num_seqs|sum_len  |N50      |N50_num|GC(%)|
