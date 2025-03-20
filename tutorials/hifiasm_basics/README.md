@@ -16,25 +16,18 @@ cd bin
 wget https://github.com/PacificBiosciences/pbtk/releases/download/v3.5.0/pbtk.tar.gz
 mkdir pbtk; tar xvzf pbtk.tar.gz -C pbtk; rm pbtk.tar.gz
 
-wget https://github.com/chhylp123/hifiasm/archive/refs/tags/0.24.0.tar.gz
-tar xvzf 0.24.0.tar.gz; rm 0.24.0.tar.gz; mv hifiasm-0.24.0 hifiasm; cd hifiasm; make
-
-cd ..
-
 wget https://github.com/shenwei356/seqkit/releases/download/v2.9.0/seqkit_linux_amd64.tar.gz
 tar xvzf seqkit_linux_amd64.tar.gz; rm seqkit_linux_amd64.tar.gz
 
-cd ..
+wget https://github.com/chhylp123/hifiasm/archive/refs/tags/0.24.0.tar.gz
+tar xvzf 0.24.0.tar.gz; rm 0.24.0.tar.gz; mv hifiasm-0.24.0 hifiasm; cd hifiasm; make
+cd ../..
 ```
 
 ## Download Data
 Demo datasets for all applications can be found on [PacBio's website](https://www.pacb.com/connect/datasets/). I am using the *Helicobacter pylori* dataset generated on the Sequel II ([sample bc2009](https://downloads.pacbcloud.com/public/dataset/2021-11-Microbial-96plex/demultiplexed-reads/)) to demonstrate genome assembly because this species has a relatively small genome size (1 chromosome = 1.6 Mbp) and should assemble relatively quickly. 
 
 This dataset is ~54 Mbp of HiFi data which is equivalent to ~34x coverage of the genome. Note that this is only 0.06% of Revio's potential output (~90 Gbp). If you used all 384 of our SMRTbell barcoded adapters to multiplex this species on a Revio SMRT Cell, you would still only be using 23-25% of a Revio SMRT Cell.
-
-<br>
-<br>
-
 ```
 wget https://downloads.pacbcloud.com/public/dataset/2021-11-Microbial-96plex/demultiplexed-reads/m64004_210929_143746.bc2009.bam
 ```
