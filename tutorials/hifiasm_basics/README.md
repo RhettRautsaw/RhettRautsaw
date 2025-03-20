@@ -9,6 +9,7 @@ Many of the tools I use in this demo are already available on with nearly any Li
 - To assemble the genome, we will use the latest release of [hifiasm](https://github.com/chhylp123/hifiasm). 
 - To calculate simple assembly statistics such as N50, we will use [SeqKit](https://github.com/shenwei356/seqkit).
 ```
+mkdir /path/to/working/directory
 mkdir -p ~/PacBio/bin
 cd ~/PacBio/bin
 
