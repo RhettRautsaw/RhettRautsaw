@@ -10,8 +10,8 @@ Many of the tools I use in this demo are already available on with nearly any Li
 - To calculate simple assembly statistics such as N50, we will use [SeqKit](https://github.com/shenwei356/seqkit).
 ```
 mkdir /path/to/working/directory
-mkdir -p ~/PacBio/bin
-cd ~/PacBio/bin
+mkdir -p bin
+cd bin
 
 wget https://github.com/PacificBiosciences/pbtk/releases/download/v3.5.0/pbtk.tar.gz
 mkdir pbtk; tar xvzf pbtk.tar.gz -C pbtk; rm pbtk.tar.gz
@@ -19,7 +19,7 @@ mkdir pbtk; tar xvzf pbtk.tar.gz -C pbtk; rm pbtk.tar.gz
 wget https://github.com/chhylp123/hifiasm/archive/refs/tags/0.24.0.tar.gz
 tar xvzf 0.24.0.tar.gz; rm 0.24.0.tar.gz; mv hifiasm-0.24.0 hifiasm; cd hifiasm; make
 
-cd ~/PacBio/bin
+cd ..
 
 wget https://github.com/shenwei356/seqkit/releases/download/v2.9.0/seqkit_linux_amd64.tar.gz
 tar xvzf seqkit_linux_amd64.tar.gz; rm seqkit_linux_amd64.tar.gz
