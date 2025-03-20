@@ -83,7 +83,7 @@ bin/seqkit stats -j 8 -a bacteria.asm.bp.p_ctg.fasta
 
 |num_seqs|sum_len  |N50      |N50_num|GC(%)|
 |:-------|:--------|:--------|:------|:----|
-|1       |1,645,757|1,645,757|1      |39.18|
+|1       |1,645,758|1,645,758|1      |39.18|
 
 ## Results
 You'll note that only one contig is assembled and the contig name ends with "c" indicating it is a circular assembly. Meaning the full chromosome was assembled! 
