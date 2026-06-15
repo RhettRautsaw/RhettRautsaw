@@ -1,17 +1,25 @@
+<a href="https://www.rhettrautsaw.github.io/"><img align="right" src="ParkinsonLab_black.png" width=150></a>
+
 <div align="center">
-<center>
+  <h2>Rhett M. Rautsaw, Ph.D.</h2>
+  <h3>Welcome to my GitHub Page!</h3>
 
-# Rhett M. Rautsaw, Ph.D.
-### Evolution | Ecology | Conservation | Genomics | Bioinformatics
-### Welcome to my GitHub Page!
-Head to website for more information and summary of my research, publications, outreach, software, tutorials, and more
+  <p>
+    Head to my website for more information and summary of my <br>
+    research, publications, outreach, software, tutorials, and more...
+  </p>
 
-
-# [rhettrautsaw.github.io](https://rhettrautsaw.github.io)
+  <h3>
+    <img src="dna.gif" width="110">
+    <img src="dna.gif" width="110">
+    &nbsp;
+    <a href="https://rhettrautsaw.github.io/">rhettrautsaw.github.io</a>
+    &nbsp;
+    <img src="dna.gif" width="110">
+    <img src="dna.gif" width="110">
+  </h3>
+</div>
 
 # GitHub Stats
 ![Rhett's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhettRautsaw&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhettRautsaw&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
-
-</center>
-</div
