@@ -1,9 +1,9 @@
-<a href="https://www.rhettrautsaw.github.io/"><img align="right" src="ParkinsonLab_black.png" width=150></a>
+<a href="https://www.rhettrautsaw.github.io/"><img align="right" src="ParkinsonLab_black.png" width=100></a>
 
 <div align="center">
-  <h2>Rhett M. Rautsaw, Ph.D.</h2>
-  <h3>Welcome to my GitHub!</h3>
-
+  <h3>Rhett M. Rautsaw, Ph.D.</h3>
+  <h4>Welcome to my GitHub!</h4>
+  
   <p>
     Head to my website for more information and summary of my <br>
     research, publications, outreach, software, tutorials, and more...
